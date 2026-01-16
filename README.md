@@ -1,74 +1,20 @@
-### Olá! Eu sou Giovanna Cavalcanti 🧩
+# 💫 About Me:
+Tenho 3 anos de experiência em Suporte Técnico focado em resolução de incidentes, automação de processos e gestão de ambientes de Cloud. Possuo domínio nas plataformas ServiceNow e Salesforce, IAM e ambientes multicloud, incluindo AWS, Azure e GCP. Especialista em automação com scripts em PowerShell, Python e Terraform, além de monitoramento com ferramentas como Zabbix, SolarWinds e Opmon. Experiência em gestão de backup com Veeam e Control-M, utilizando metodologias ITIL, Kanban e Scrum.
 
-<h4>Analista de Operações em São Paulo, focada em Infraestrutura Cloud, Automação e Resolução de Incidentes. 🚀</h4>
 
-* [cite_start]**Foco Atual:** Gestão de ambientes multicloud (AWS, Azure e GCP)[cite: 19, 22, 26].
-* [cite_start]**Experiência:** 3 anos atuando com suporte técnico, automação de processos e gestão de infraestrutura[cite: 21, 37].
-* [cite_start]**Educação:** Graduanda em Ciência da Computação (2023 - 2027)[cite: 63].
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giovanna-cavalcanti-de-lima-medeiros/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giovanna.cavalcanti@outlook.com.br) 
 
-<div>
-  <a href="https://www.linkedin.com/in/giovanna-cavalcanti-de-lima-medeiros/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
-  </a>
-  <a href="mailto:giovanna.cavalcanti@outlook.com.br" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" /> 
-  </a>
-</div>
+# 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Giovanna154&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Giovanna154&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna154&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
 
-<div align="center">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=GiovannaCavalcanti&theme=vision-friendly-dark&locale=pt-br&date_format=%5BY.%5Dn.j&fire=DD2727"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacavalcanti&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<br />
 
-## 🛠️ Tecnologias e Ferramentas
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
-### Cloud & Infra
-<div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="Terraform" />
-</div>
-
-    </td>
-    <td valign="top" width="33%">
-
-### Automação & Scripting
-<div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="45" alt="PowerShell" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" alt="Ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash" />
-</div>
-
-    </td>
-    <td valign="top" width="33%">
-
-### Operações & Monitoração
-<div align="center">  
-  <img src="https://simpleicons.org/icons/servicenow.svg" height="45" alt="ServiceNow" />
-  <img src="https://simpleicons.org/icons/salesforce.svg" height="45" alt="Salesforce" />
-  <img src="https://simpleicons.org/icons/zabbix.svg" height="45" alt="Zabbix" />
-</div>
-
-    </td>
-  </tr>
-</table>
-
-## 🎓 Certificações e Idiomas
-* [cite_start]**Certificações:** Azure Certification (em foco) [cite: 19][cite_start], Terraform [cite: 15][cite_start], JavaScript[cite: 16].
-* [cite_start]**Idiomas:** Português (Nativo), Inglês e Espanhol (Nível profissional limitado)[cite: 9, 10].
-
-<br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%"/>
-</p>
+[![](https://visitcount.itsvg.in/api?id=Giovanna154&icon=10&color=1)](https://visitcount.itsvg.in)
