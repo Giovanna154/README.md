@@ -15,6 +15,3 @@ Tenho 3 anos de experiência em Suporte Técnico focado em resolução de incide
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-[![](https://visitcount.itsvg.in/api?id=Giovanna154&icon=10&color=1)](https://visitcount.itsvg.in)
