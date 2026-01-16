@@ -1,25 +1,19 @@
 ### Olá! Eu sou Giovanna Cavalcanti 🧩
 
-<h4>Analista de Operações em São Paulo, focada em Cloud (Azure/AWS), Infraestrutura e Automação. 🚀</h4>
+<h4>Analista de Operações em São Paulo, focada em Infraestrutura Cloud, Automação e Resolução de Incidentes. 🚀</h4>
 
-[cite_start]💪 **Habilidades:** Cloud Computing (AWS, Azure, GCP), Terraform, PowerShell e Python. [cite: 5, 6, 22, 26, 27]
-
-[cite_start]⌛ **Experiência:** 3 anos em suporte técnico, gestão de ambientes multicloud e automação de infraestrutura. [cite: 21, 22]
-
-[cite_start]🎓 **Formação:** Graduanda em Ciência da Computação pela Universidade São Judas Tadeu (2023-2027). 
+* [cite_start]**Foco Atual:** Gestão de ambientes multicloud (AWS, Azure e GCP)[cite: 19, 22, 26].
+* [cite_start]**Experiência:** 3 anos atuando com suporte técnico, automação de processos e gestão de infraestrutura[cite: 21, 37].
+* [cite_start]**Educação:** Graduanda em Ciência da Computação (2023 - 2027)[cite: 63].
 
 <div>
   <a href="https://www.linkedin.com/in/giovanna-cavalcanti-de-lima-medeiros/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
   </a>
   <a href="mailto:giovanna.cavalcanti@outlook.com.br" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="30" /> 
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" /> 
   </a>
 </div>
-
-<br />
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueXp0bm96eG56eG56eG56eG56eG56eG56eG56eG56ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="center" alt="Cloud Infrastructure" width="100%" height="350px" style="object-fit: cover; border-radius: 10px;"/>
 
 <br />
 
@@ -38,40 +32,40 @@
 
 ### Cloud & Infra
 <div align="center">  
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" />
-  <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="45" alt="Azure" />
-  <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="45" alt="GCP" />
-  <img src="https://profilinator.rishav.dev/skills-assets/terraform-icon.svg" height="45" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="45" alt="Terraform" />
 </div>
 
     </td>
     <td valign="top" width="33%">
 
-### Automação & Dev
+### Automação & Scripting
 <div align="center">  
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="45" alt="Python" />
-  <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="45" alt="PowerShell" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45" alt="JavaScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/ansible-icon.svg" height="45" alt="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="45" alt="PowerShell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="45" alt="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash" />
 </div>
 
     </td>
     <td valign="top" width="33%">
 
-### Gestão & Monitoração
+### Operações & Monitoração
 <div align="center">  
-  <img src="https://img.icons8.com/color/48/000000/servicenow.png" height="45" alt="ServiceNow" />
-  <img src="https://profilinator.rishav.dev/skills-assets/zabbix-description.png" height="45" alt="Zabbix" />
-  <img src="https://img.icons8.com/color/48/000000/salesforce.png" height="45" alt="Salesforce" />
+  <img src="https://simpleicons.org/icons/servicenow.svg" height="45" alt="ServiceNow" />
+  <img src="https://simpleicons.org/icons/salesforce.svg" height="45" alt="Salesforce" />
+  <img src="https://simpleicons.org/icons/zabbix.svg" height="45" alt="Zabbix" />
 </div>
 
     </td>
   </tr>
 </table>
 
-## 📊 Metodologias Ágeis
-* [cite_start]**Frameworks:** Scrum e Kanban [cite: 7, 29, 50]
-* [cite_start]**Governança:** ITIL [cite: 29, 50]
+## 🎓 Certificações e Idiomas
+* [cite_start]**Certificações:** Azure Certification (em foco) [cite: 19][cite_start], Terraform [cite: 15][cite_start], JavaScript[cite: 16].
+* [cite_start]**Idiomas:** Português (Nativo), Inglês e Espanhol (Nível profissional limitado)[cite: 9, 10].
 
 <br />
 
